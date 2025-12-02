@@ -42,11 +42,11 @@ You only need a modern web browser (like Chrome, Firefox, or Edge) installed on 
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/joy094/
+    git clone https://github.com/cityscape-real-estate
     ```
 2.  Navigate into the project folder:
     ```bash
-    cd  Cityscape Real Estate
+    cd  cityscape-real-estate
     ```
 3.  Open the `index.html` file in your preferred web browser to view the site.
 
@@ -61,7 +61,7 @@ To ensure continuous accessibility and reliability for all stakeholders, this pr
 
 - **2. Vercel Backup Link (Permanent Access):**
   (This link guarantees access even if the primary domain expires)
-  👉 ****
+  👉 **https://cityscape-real-estate.vercel.app/**
 
 ---
 
